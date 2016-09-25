@@ -1,0 +1,6 @@
+Enter radius: 5.5
+Enter color: blue
+ 
+For the blue circle
+Circumference is: 34.56
+Area is: 95.03
